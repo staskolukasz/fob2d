@@ -1,0 +1,4 @@
+E:\01_[Programowanie] Projekty\VS.com Code Repository\fob2d\fob2d\fob2d.MatrixHelper\bin\Release\fob2d.MatrixHelper.dll
+E:\01_[Programowanie] Projekty\VS.com Code Repository\fob2d\fob2d\fob2d.MatrixHelper\bin\Release\fob2d.MatrixHelper.pdb
+E:\01_[Programowanie] Projekty\VS.com Code Repository\fob2d\fob2d\fob2d.MatrixHelper\obj\Release\fob2d.MatrixHelper.dll
+E:\01_[Programowanie] Projekty\VS.com Code Repository\fob2d\fob2d\fob2d.MatrixHelper\obj\Release\fob2d.MatrixHelper.pdb
