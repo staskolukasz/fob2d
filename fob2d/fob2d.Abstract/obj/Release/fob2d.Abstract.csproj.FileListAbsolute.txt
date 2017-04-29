@@ -1,4 +1,0 @@
-E:\01_[Programowanie] Projekty\VS.com Code Repository\fob2d\fob2d\fob2d.Abstract\bin\Release\fob2d.Abstract.dll
-E:\01_[Programowanie] Projekty\VS.com Code Repository\fob2d\fob2d\fob2d.Abstract\bin\Release\fob2d.Abstract.pdb
-E:\01_[Programowanie] Projekty\VS.com Code Repository\fob2d\fob2d\fob2d.Abstract\obj\Release\fob2d.Abstract.dll
-E:\01_[Programowanie] Projekty\VS.com Code Repository\fob2d\fob2d\fob2d.Abstract\obj\Release\fob2d.Abstract.pdb
